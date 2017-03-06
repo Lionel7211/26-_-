@@ -1,0 +1,10 @@
+public class  PersonFactory
+{
+	public static person producer(String name)
+	if (nameequalsIgnoreCase("W"))
+		System.out.println("Woman");
+	else(nameequalsIgnoreCase("M"))
+		System.out.println("Man");
+	else(nameequalsIgnoreCase("R"))
+		System.out.println("Robot");
+}
